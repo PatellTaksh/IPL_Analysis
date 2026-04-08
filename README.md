@@ -44,7 +44,15 @@ This project demonstrates:
 - Insight generation from sports data  
 
 ## Visualizations  
-- Bar charts  
-- Count plots  
-- Distribution plots  
-- Comparative analysis graphs  
+
+* **Most Match Wins by Team**  
+![Most_Match_wins_by_Team](PNG/Most_Match_wins_by_Team.png)
+
+* **Most Player of the Match**  
+![Most_Player_of_the_Match](PNG/Most_Player_of_the_Match.png)
+
+* **Top 2 Scorer**  
+![Top_2_Scorer](PNG/Top_2_Scorer.png)
+
+* **Top 10 Bowlers**  
+![Top_10_Bowlers](PNG/Top_10_Bowlers.png)
